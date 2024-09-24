@@ -141,7 +141,7 @@ span {
 }
 
 .btn {
-  width: 16vw;
+  
   display: inline-block;
   text-align: center;
   background-color: var(--links-color);
@@ -229,7 +229,7 @@ span {
   align-items: center;
   justify-content: center;
   align-content: center;
-  margin-bottom: 3.2rem;
+  margin-bottom: 3rem;
 }
 
 .contact h2 {
@@ -237,6 +237,7 @@ span {
   font-size: 2.4rem;
   font-weight: 700;
   line-height: 1.2;
+  text-align: center;
 }
 
 .contact .contact-content {
@@ -252,8 +253,7 @@ span {
   display: block;
   text-align: left;
   justify-content: center;
-  line-height: 1.2rem;
-  width: 450px;
+  width: 40vw;
 }
 
 .contact .contact-content input {
